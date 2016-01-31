@@ -1,3 +1,5 @@
+[![Docker Repository on Quay](https://quay.io/repository/rebyn/pgbouncer/status "Docker Repository on Quay")](https://quay.io/repository/rebyn/pgbouncer)
+
 ### Traffic Flow
 
 | From                       |    | To                               |
